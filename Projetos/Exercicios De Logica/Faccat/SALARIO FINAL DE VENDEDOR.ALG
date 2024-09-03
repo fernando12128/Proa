@@ -12,6 +12,7 @@ resultado : real
 calculo : real
 calculodocinco : real
 calculadora : real
+vendascarros: real
 
 
 Inicio
@@ -21,10 +22,13 @@ escreval ("Qual o Valor da comissao fixa? ")
 leia(comissaofixa)
 escreval("quanto carro voce vendeu? ")
 leia(carrovendido)
+escreval("qual o valor total das vendas dos carros?")
+leia(vendascarros)
+
+
 calculo <- comissaofixa * carrovendido
-calculodocinco <- (5/100) * calculo
-calculadora <- calculodocinco + calculo
-resultado <- SalarioFixo + calculadora
+calculodocinco <- (vendascarros *5) / 100
+resultado <- SalarioFixo + calculodocinco
 escreval ("O Seu salario no final do mes sera ", resultado)
 
 Fimalgoritmo
