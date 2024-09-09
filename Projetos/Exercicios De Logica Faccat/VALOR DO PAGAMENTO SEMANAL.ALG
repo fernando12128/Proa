@@ -13,9 +13,9 @@ Inicio
    leia(horastotais)
    escreval("Qual o valor da sua hora trabalhada? ")
    leia(valor)
-   salario <- 40 * valor
-   se horastotais > 40 entao
-      calculo <- (horastotais - 40) * ((0.5 * valor)+ valor)
+   salario <- (40 * 4) * valor
+   se horastotais > 160 entao
+      calculo <- (horastotais - 160) * ((0.5 * valor)+ valor)
       escreval("O Valor total da sua hora extra sera: ", calculo," e essa semana a sua renda foi, ", calculo + salario)
    senao
       escreval("O valor do seu pagamento da semana é ", salario)
