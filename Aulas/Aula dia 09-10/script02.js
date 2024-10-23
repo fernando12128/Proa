@@ -11,4 +11,4 @@ let fer = Funcaonova(10,10)
 function Funcaonova (valorA, valorB){
     return valorA * valorB
 }
-console.log(fer)
+console.log(Funcaonova)
