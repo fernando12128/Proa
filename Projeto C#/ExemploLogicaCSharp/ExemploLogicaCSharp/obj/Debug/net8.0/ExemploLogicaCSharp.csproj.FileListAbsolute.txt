@@ -1,0 +1,14 @@
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\bin\Debug\net8.0\ExemploLogicaCSharp.exe
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\bin\Debug\net8.0\ExemploLogicaCSharp.deps.json
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\bin\Debug\net8.0\ExemploLogicaCSharp.runtimeconfig.json
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\bin\Debug\net8.0\ExemploLogicaCSharp.dll
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\bin\Debug\net8.0\ExemploLogicaCSharp.pdb
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.AssemblyInfoInputs.cache
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.AssemblyInfo.cs
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.dll
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\refint\ExemploLogicaCSharp.dll
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.pdb
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ExemploLogicaCSharp.genruntimeconfig.cache
+C:\Users\fernando.acalves\source\repos\ExemploLogicaCSharp\ExemploLogicaCSharp\obj\Debug\net8.0\ref\ExemploLogicaCSharp.dll
